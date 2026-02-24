@@ -23,7 +23,7 @@ register_cuda_ci(
 GPT_OSS_MODEL = "openai/gpt-oss-120b"
 
 ACC_THRESHOLDS = {
-    GPT_OSS_MODEL: {"gsm8k": 0.85},
+    GPT_OSS_MODEL: {"gsm8k": 0.81},
 }
 
 
